@@ -1,0 +1,19 @@
+{
+  "name": "hetic-p2019-08",
+  "version": "1.0.0",
+  "description": "DevFront - Sound",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxaloc/HETIC-P2019-08.git"
+  },
+  "author": "Equipe 08",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxaloc/HETIC-P2019-08/issues"
+  },
+  "homepage": "https://github.com/maxaloc/HETIC-P2019-08#readme"
+}
