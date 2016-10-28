@@ -2,6 +2,11 @@ var gulp = require('gulp'),
     sass = require('gulp-sass');
     sync = require('browser-sync') .create();
 
+
+gulp.task(‘default’, function() {
+  console.log(‘Starting Gulp Proccessus’);
+});
+
 gulp.task('scss', function() {
   return gulp.src('app/scss/style.scss')
       .pipe(sass())
