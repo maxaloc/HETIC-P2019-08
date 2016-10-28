@@ -1,5 +1,10 @@
 # HETIC-P2019-08
 Projet Trimestre 1 Dev-Front
 
-https://git-scm.com/docs/gitignore
-to configure properly a .gitignore
+#TEAM
+Anne Maurice Péroumal
+Adrien Bétolière
+Alexandre Chichportich
+Hugo Quincey
+Max Allouch
+Léo Sadoune
