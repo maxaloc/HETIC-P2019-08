@@ -3,5 +3,3 @@ Projet Trimestre 1 Dev-Front
 
 https://git-scm.com/docs/gitignore
 to configure properly a .gitignore
-
-#test
